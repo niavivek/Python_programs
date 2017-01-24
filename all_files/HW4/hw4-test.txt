@@ -1,0 +1,5 @@
+Please extensively and carefully test your assignment. 
+
+In your write up, please discuss these issues:  What are the boundary cases? What happens if catalog.txt comes in an unexpected format? What happens if a link is broken or the contents come in an unexpected format? etc.  
+
+When your program is complete, put it in a script named hw4.<userid>.py.  Write a document (acceptable formats include pdf and text files) explaining how you tested your program (what test cases and strategies did you use) and the answer to the above question as hw4-test.<userid>.txt or hw4-test.<userid>.pdf.  Upload these files using the file upload tool available at <a href="https://www.ischool.berkeley.edu/uploader/?s=i206" target="_blank">https://www.ischool.berkeley.edu/uploader/?s=i206</a>  Login with your ISchool userid and password and follow the directions.
